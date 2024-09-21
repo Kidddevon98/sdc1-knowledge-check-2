@@ -1,0 +1,15 @@
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\bin\Debug\net8.0\Sdc1KnowledgeCheck2.exe
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\bin\Debug\net8.0\Sdc1KnowledgeCheck2.deps.json
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\bin\Debug\net8.0\Sdc1KnowledgeCheck2.runtimeconfig.json
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\bin\Debug\net8.0\Sdc1KnowledgeCheck2.dll
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\bin\Debug\net8.0\Sdc1KnowledgeCheck2.pdb
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.AssemblyInfoInputs.cache
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.AssemblyInfo.cs
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.sourcelink.json
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.dll
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\refint\Sdc1KnowledgeCheck2.dll
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.pdb
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\Sdc1KnowledgeCheck2.genruntimeconfig.cache
+C:\Users\kiddd\Documents\sdc1-knowledge-check-2\Sdc1KnowledgeCheck2\obj\Debug\net8.0\ref\Sdc1KnowledgeCheck2.dll
